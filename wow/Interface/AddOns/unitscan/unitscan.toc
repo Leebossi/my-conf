@@ -1,0 +1,7 @@
+## Interface: 40400
+## Author: shirsig
+## Title: unitscan
+## Version: v4.0.0
+## Notes: Unit scanner with flashy alert
+## SavedVariables: unitscan_targets
+unitscan.lua
