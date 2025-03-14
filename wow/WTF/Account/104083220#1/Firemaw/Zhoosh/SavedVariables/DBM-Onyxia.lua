@@ -1,0 +1,26 @@
+
+DBMOnyxia_SavedStats = {
+	["Onyxia"] = {
+		["normal25LastTime"] = 245.7409999999218,
+		["normalPulls"] = 3,
+		["challengeKills"] = 0,
+		["normal25BestTime"] = 245.7409999999218,
+		["challengeBestRank"] = 0,
+		["mythicKills"] = 0,
+		["lfr25Kills"] = 0,
+		["heroic25Pulls"] = 0,
+		["lfr25Pulls"] = 0,
+		["normal25Pulls"] = 9,
+		["normalLastTime"] = 133.1060000000289,
+		["normalKills"] = 3,
+		["mythicPulls"] = 0,
+		["heroic25Kills"] = 0,
+		["heroicKills"] = 0,
+		["timewalkerPulls"] = 0,
+		["normal25Kills"] = 4,
+		["heroicPulls"] = 0,
+		["timewalkerKills"] = 0,
+		["normalBestTime"] = 133.1060000000289,
+		["challengePulls"] = 0,
+	},
+}

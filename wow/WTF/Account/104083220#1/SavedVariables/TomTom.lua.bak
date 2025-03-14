@@ -1,0 +1,130 @@
+
+TomTomDB = {
+["profileKeys"] = {
+["Worsé - Gehennas"] = "Default",
+["Arenamasterr - Gehennas"] = "Default",
+["Getdotted - Firemaw"] = "Default",
+["Zhoosh - Mograine"] = "Default",
+["Gankzta - Firemaw"] = "Default",
+["Zhoosh - Firemaw"] = "Default",
+["Facerolclass - Firemaw"] = "Default",
+["Zhooshcat - Firemaw"] = "Default",
+["Retool - Golemagg"] = "Default",
+["Gnomlyfanz - Firemaw"] = "Default",
+["Zhuzh - Gehennas"] = "Default",
+["Areenamaster - Golemagg"] = "Default",
+["Melonman - Golemagg"] = "Default",
+["Igniass - Golemagg"] = "Default",
+["Areenamaster - Venoxis"] = "Default",
+["Areenamaster - Mandokir"] = "Default",
+["Monsoony - Firemaw"] = "Default",
+["Gankzter - Firemaw"] = "Default",
+["Igankyoulol - Firemaw"] = "Default",
+["Bankzter - Firemaw"] = "Default",
+["Soossi - Firemaw"] = "Default",
+["Blinkzter - Firemaw"] = "Default",
+["Pizzaz - Firemaw"] = "Default",
+["Wowgreat - Golemagg"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["arrow"] = {
+["position"] = {
+"TOP",
+nil,
+"TOP",
+-3.555582523345947,
+-78.55550384521484,
+},
+},
+["block"] = {
+["position"] = {
+"TOPRIGHT",
+nil,
+"TOPRIGHT",
+0,
+-196.4665679931641,
+},
+},
+},
+},
+}
+TomTomWaypoints = nil
+TomTomWaypointsM = {
+["profileKeys"] = {
+["Worsé - Gehennas"] = "Worsé - Gehennas",
+["Arenamasterr - Gehennas"] = "Arenamasterr - Gehennas",
+["Getdotted - Firemaw"] = "Getdotted - Firemaw",
+["Zhoosh - Mograine"] = "Zhoosh - Mograine",
+["Gankzta - Firemaw"] = "Gankzta - Firemaw",
+["Zhoosh - Firemaw"] = "Zhoosh - Firemaw",
+["Facerolclass - Firemaw"] = "Facerolclass - Firemaw",
+["Zhooshcat - Firemaw"] = "Zhooshcat - Firemaw",
+["Retool - Golemagg"] = "Retool - Golemagg",
+["Gnomlyfanz - Firemaw"] = "Gnomlyfanz - Firemaw",
+["Zhuzh - Gehennas"] = "Zhuzh - Gehennas",
+["Areenamaster - Golemagg"] = "Areenamaster - Golemagg",
+["Melonman - Golemagg"] = "Melonman - Golemagg",
+["Igniass - Golemagg"] = "Igniass - Golemagg",
+["Areenamaster - Venoxis"] = "Areenamaster - Venoxis",
+["Areenamaster - Mandokir"] = "Areenamaster - Mandokir",
+["Monsoony - Firemaw"] = "Monsoony - Firemaw",
+["Gankzter - Firemaw"] = "Gankzter - Firemaw",
+["Igankyoulol - Firemaw"] = "Igankyoulol - Firemaw",
+["Bankzter - Firemaw"] = "Bankzter - Firemaw",
+["Soossi - Firemaw"] = "Soossi - Firemaw",
+["Blinkzter - Firemaw"] = "Blinkzter - Firemaw",
+["Pizzaz - Firemaw"] = "Pizzaz - Firemaw",
+["Wowgreat - Golemagg"] = "Wowgreat - Golemagg",
+},
+["profiles"] = {
+["Worsé - Gehennas"] = {
+},
+["Arenamasterr - Gehennas"] = {
+},
+["Getdotted - Firemaw"] = {
+},
+["Zhoosh - Mograine"] = {
+},
+["Gankzta - Firemaw"] = {
+},
+["Zhoosh - Firemaw"] = {
+},
+["Facerolclass - Firemaw"] = {
+},
+["Zhooshcat - Firemaw"] = {
+},
+["Retool - Golemagg"] = {
+},
+["Gnomlyfanz - Firemaw"] = {
+},
+["Zhuzh - Gehennas"] = {
+},
+["Areenamaster - Golemagg"] = {
+},
+["Melonman - Golemagg"] = {
+},
+["Igniass - Golemagg"] = {
+},
+["Areenamaster - Venoxis"] = {
+},
+["Areenamaster - Mandokir"] = {
+},
+["Monsoony - Firemaw"] = {
+},
+["Gankzter - Firemaw"] = {
+},
+["Igankyoulol - Firemaw"] = {
+},
+["Bankzter - Firemaw"] = {
+},
+["Soossi - Firemaw"] = {
+},
+["Blinkzter - Firemaw"] = {
+},
+["Pizzaz - Firemaw"] = {
+},
+["Wowgreat - Golemagg"] = {
+},
+},
+}

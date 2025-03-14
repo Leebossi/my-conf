@@ -1,0 +1,174 @@
+VER 3 000000000100002E " " "134400"
+/way Tol Barad Peninsula 69 47 Cat
+/way Tol Barad Peninsula 57 36 Rat
+/way Twilight Highlands 47 70 Marmot
+/way Twilight Highlands 46 48 Rattlesnake
+/way Twilight Highlands 51 35 Turkey
+END
+VER 3 0000000001000029 " " "134400"
+#showtooltip Fan of knives
+/startattack
+/cast fan of knives
+END
+VER 3 000000000100002A " " "134400"
+#showtooltip Mutilate
+/equipslot 16 Bladetwister
+/equipslot 17 Combatant
+/startattack
+/cast Mutilate
+/cast throw
+/cast Shoot
+END
+VER 3 000000000100002F " " "134400"
+/way Mount Hyjal 60 23 Chipmunk
+/way Mount Hyjal 58 22 Vole
+/way Mount Hyjal 69 67 Viper
+/way Shimmering Expanse 67 41 Whelk
+/way Shimmering Expanse 49 57 Cucumber
+/way Uldum 47 48 Moth
+/way Uldum 60 30 Frog
+END
+VER 3 0000000001000004 " Stealth" "132320"
+#showtooltip Stealth
+/dismount
+/cast !Stealth
+END
+VER 3 0000000001000003 " strike" "136189"
+#showtooltip Sinister Strike
+/equipslot 17 Vengeance
+/cast sinister strike
+/startattack
+/cast Throw
+/cast Shoot
+END
+VER 3 000000000100002D " strike" "INV_Misc_QuestionMark"
+#showtooltip Sinister Strike
+/equipslot 16 item:78481:4099
+/equipslot 17 Vengeance
+/cast sinister strike
+/startattack
+/cast Throw
+/cast Shoot
+END
+VER 3 0000000001000030 " strike" "INV_Misc_QuestionMark"
+#showtooltip Sinister Strike
+/equipslot 17 Vengeance
+/cast sinister strike
+/startattack
+/cast Throw
+/cast Shoot
+END
+VER 3 0000000001000005 "Ambush" "132282"
+#showtooltip Ambush
+/equipslot 16 item:77945
+/cast Ambush
+END
+VER 3 0000000001000008 "backstab" "132090"
+#showtooltip Backstab
+/equipslot 16 item:77945
+/cast Backstab
+/startattack
+END
+VER 3 0000000001000021 "BLOOD" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click [button:1] BLOOD LeftButton t; BLOOD
+END
+VER 3 0000000001000011 "Cheap" "132092"
+#showtooltip Cheap Shot
+/equipslot 16 Laquered
+/cast Cheap Shot
+END
+VER 3 0000000001000033 "extra" "136116"
+/click ExtraActionButton1
+END
+VER 3 0000000001000019 "focus" "INV_MISC_QUESTIONMARK"
+#showtooltip Kick
+/cast [target=focus] Kick
+END
+VER 3 000000000100002B "kneel" "134400"
+/kneel
+END
+VER 3 0000000001000032 "KS" "134400"
+#showtooltip Killing Spree
+/use 10
+/cast Killing Spree
+END
+VER 3 000000000100000E "Loot" "135828"
+#Pick Pocket
+/cleartarget
+/targetenemy
+/cast Pick Pocket
+END
+VER 3 0000000001000025 "Mutilate" "132304"
+#showtooltip Mutilate
+/equipslot 17 item:50621:3789
+/equipslot 16 item:50641:3789
+/startattack
+/use [@player] Goblin Rocket Pack
+/cast Mutilate
+/cast throw
+/cast Shoot
+END
+VER 3 000000000100002C "pve" "132306"
+#showtooltip slice and dice
+/cast slice and dice
+/equipset PvE
+END
+VER 3 0000000001000031 "pve" "INV_Misc_QuestionMark"
+#showtooltip Hemorrhage
+/equipslot 16 item:77945
+/equipslot 17 item:77946
+/cast Hemorrhage
+/startattack
+/cast Throw
+END
+VER 3 0000000001000026 "pve" "136168"
+#showtooltip Hemorrhage
+/equipslot 16 item:77945
+/equipslot 17 item:77946
+/cast Hemorrhage
+/startattack
+/cast Throw
+/use Loot-A-Rang
+END
+VER 3 000000000100000F "pvp" "136168"
+#showtooltip Hemorrhage
+/use Oozing bag
+/equipslot 16 item:77945
+/equipslot 17 item:77946
+/cast Hemorrhage
+/startattack
+/cast Throw
+/cast shoot
+END
+VER 3 0000000001000020 "rod+FS" "236273"
+#showtooltip Fan of knives
+/equipslot 17 Felstriker
+/startattack
+/cast fan of knives
+END
+VER 3 000000000100000D "Sap" "132310"
+#showtooltip Sap
+/cleartarget
+/targetenemy
+/cast sap
+END
+VER 3 0000000001000024 "solo" "136168"
+#showtooltip Hemorrhage
+/equipslot 16 item:50692:3789
+/equipslot 17 item:50621:3789
+/cast Hemorrhage
+/startattack
+/cast Throw
+/cast shoot
+END
+VER 3 0000000001000027 "TAR" "132222"
+/tar empo
+END
+VER 3 0000000001000028 "TF" "136168"
+#showtooltip Hemorrhage
+/equipslot 17 item:19019:2673
+/cast Hemorrhage
+/startattack
+/cast Throw
+END

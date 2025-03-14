@@ -1,0 +1,6 @@
+
+FTSavedVars = {
+}
+FojjiSkipWTF = {
+["skip"] = true,
+}

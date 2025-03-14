@@ -1,0 +1,29 @@
+
+CappingSettings = {
+["profileKeys"] = {
+["Gankzter - Firemaw"] = "Default",
+["Getdotted - Firemaw"] = "Default",
+["Melonman - Golemagg"] = "Default",
+["Igniass - Golemagg"] = "Default",
+["Wowgreat - Golemagg"] = "Default",
+["Monsoony - Firemaw"] = "Default",
+["Facerolclass - Firemaw"] = "Default",
+["Bankzter - Firemaw"] = "Default",
+["Retool - Golemagg"] = "Default",
+["Blinkzter - Firemaw"] = "Default",
+["Zhoosh - Firemaw"] = "Default",
+["Gnomlyfanz - Firemaw"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["position"] = {
+"RIGHT",
+"RIGHT",
+-334.5333557128906,
+192.7115173339844,
+},
+["queueBars"] = false,
+["lock"] = true,
+},
+},
+}

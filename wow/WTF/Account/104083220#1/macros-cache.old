@@ -1,0 +1,301 @@
+VER 3 0000000000000041 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopmacro [flying]
+/dismount [mounted]
+/use [swimming] Abyssal Seahorse
+/use [noflyable] Ultramarine Qiraji Battle Tank
+/use [nomounted][flyable] Invincible
+END
+VER 3 000000000000004C " " "INV_MISC_QUESTIONMARK"
+#showtooltip Brazier of Dancing Flames
+/use Brazier of dancing flames
+/target dancing flames
+/dance
+END
+VER 3 000000000000003E " belt" "INV_MISC_QUESTIONMARK"
+#showtooltip 6
+/use 6
+END
+VER 3 0000000000000040 " boots" "INV_MISC_QUESTIONMARK"
+#showtooltip 8
+/use 8
+END
+VER 3 000000000000004D " cape" "INV_MISC_QUESTIONMARK"
+#showtooltip 15
+/use 15
+END
+VER 3 0000000000000054 " dps" "INV_MISC_QUESTIONMARK"
+#showtooltip Tricks of the trade
+/cast [target=party1] tricks of the trade
+END
+VER 3 0000000000000021 " glove" "INV_MISC_QUESTIONMARK"
+#showooltip 10
+/use 10
+END
+VER 3 000000000000003F " PM" "132092"
+#showtooltip Cheap Shot
+/cast Premeditation
+/cast Cheap Shot
+END
+VER 3 0000000000000068 " tank" "INV_Misc_QuestionMark"
+#showtooltip Tricks of the trade
+/cast [target=Aleksei] tricks of the trade
+END
+VER 3 0000000000000067 " tank" "INV_Misc_QuestionMark"
+#showtooltip Tricks of the trade
+/cast [target=Dethivitus] tricks of the trade
+END
+VER 3 000000000000004E " tank" "INV_MISC_QUESTIONMARK"
+#showtooltip Tricks of the trade
+/cast [target=] tricks of the trade
+END
+VER 3 0000000000000020 "1v1" "132091"
+/s 1 Š 2 ä 1 Š 2 Š 1 1 €
+/chicken
+END
+VER 3 0000000000000060 "A1" "134400"
+#showtooltip Shadowstep
+/cast [target=arena1] shadowstep
+/cast [target=arena1] sap
+END
+VER 3 0000000000000062 "A1" "134400"
+#showtooltip cheap shot
+/cast [target=arena1] shadowstep
+/cast [target=arena1] cheap shot
+END
+VER 3 0000000000000061 "A2" "132303"
+#showtooltip Shadowstep
+/cast [target=arena2] shadowstep
+/cast [target=arena2] sap
+END
+VER 3 0000000000000063 "A2" "134400"
+#showtooltip cheap shot
+/cast [target=arena2] shadowstep
+/cast [target=arena2] cheap shot
+END
+VER 3 0000000000000065 "belt" "134326"
+#showtooltip 6
+/use 6
+END
+VER 3 000000000000002E "blind" "132097"
+#showtooltip Blind
+/cast Blindwwwwwww
+END
+VER 3 0000000000000029 "BT" "136012"
+#showtooltip Bloodthirst
+/dismount
+/cast Bloodthirst
+/startattack
+END
+VER 3 0000000000000011 "cat" "132142"
+#showtooltip Catseye Ultra Goggles
+/equip Catseye Ultra Goggles
+/equipslot 1 Cogspinner Goggles of the Bandit
+END
+VER 3 0000000000000030 "cloak" "135991"
+/run if not ShowingCloak() then ShowCloak(true) else ShowCloak(false) end
+END
+VER 3 000000000000000C "cloth" "135769"
+/target Mupsi
+/script SelectGossipAvailableQuest()
+/script CompleteQuest()
+/script GetQuestReward()
+END
+VER 3 0000000000000064 "disp" "236273"
+#showtooltip Fan of knives
+/equipslot 16 worn
+/equipslot 17 Felstriker
+/startattack
+/cast fan of knives
+END
+VER 3 0000000000000052 "eternal" "INV_MISC_QUESTIONMARK"
+/use Crystallized Earth
+/use Crystallized Shadow
+/use Crystallized Fire
+/use Crystallized Water
+/use Crystallized Air
+/use Crystallized Life
+END
+VER 3 0000000000000013 "expose" "132354"
+#showtooltip Expose Armor
+/cast expose armor
+/stopattack
+/cleartarget
+END
+VER 3 0000000000000055 "FAP" "INV_MISC_QUESTIONMARK"
+#showtooltip 13
+/dismount
+/use 13
+/use free action potion
+END
+VER 3 0000000000000008 "fish" "INV_MISC_QUESTIONMARK"
+#showtooltip fishing
+/equipslot 16 Arcanite Fishing Pole
+/equipslot 16 Fishing Pole
+/equipslot 16 Strong fishing pole
+/dismount
+/cast Fishing
+END
+VER 3 000000000000003A "flex" "136101"
+#showtooltip 19
+/use 19
+/train
+/s D a p Ee bb
+END
+VER 3 000000000000003B "focus" "136175"
+#showtooltip blind
+/cast [target=succubus] Blind
+END
+VER 3 000000000000005E "focus" "236283"
+#showtooltip Tricks of the trade
+/cast [target=focus] tricks of the trade
+END
+VER 3 000000000000003C "focus" "INV_MISC_QUESTIONMARK"
+#showooltip Kick
+/cast [target=focus] Kick
+END
+VER 3 000000000000004A "FSK" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadowstep
+/cast [target=focus] Shadowstep
+/cast [target=focus] Kick
+END
+VER 3 0000000000000031 "head" "INV_MISC_QUESTIONMARK"
+#showtooltip 1
+/dismount
+/use 1
+END
+VER 3 000000000000002F "helm" "136031"
+/run if not ShowingHelm() then ShowHelm(true) else ShowHelm(false) end
+END
+VER 3 0000000000000044 "kakka" "132099"
+/s À Ÿ À À Ÿ „ 1 p ƒ p
+END
+VER 3 0000000000000056 "Kiss" "132100"
+/cleartarget
+/tar [noharm][dead] Lake Frog
+/use Warts-B-Gone Lip Balm
+/kiss
+/cleartarget
+END
+VER 3 0000000000000042 "LAP" "132331"
+#showtooltip Living action potion
+/use Living action potion
+/cast Vanish
+END
+VER 3 0000000000000059 "LOG" "132269"
+/run local function id(s) return strmatch(GetInventoryItemLink("player",s) or "","(item:%d+:%d+):") end for i=16,17 do if id(i) then ChatFrame1:AddMessage("/equipslot "..i.." "..id(i)) end end
+END
+VER 3 0000000000000026 "loser" "132094"
+/laugh
+END
+VER 3 0000000000000049 "LOW" "136168"
+/s ž 1 ◒ „ 2 Ÿ ž ÇÍ Š 1 1 €
+END
+VER 3 0000000000000047 "maa" "136025"
+/s Ä 2 2 Ä Ÿ Ÿ „ 11
+END
+VER 3 000000000000001F "makgora" "132091"
+/s Ä Ÿ À ßi ‡ Ÿ
+END
+VER 3 0000000000000045 "many" "133168"
+/s Ä Ÿ Š 3 ä ƒ 1 Š 2 Š 1 1 €
+/chicken
+END
+VER 3 0000000000000046 "MOM" "132311"
+/train
+/s 3 1 p ‡ Ä 1 Ä Ä Ÿ
+END
+VER 3 0000000000000014 "moo" "136072"
+/moo
+END
+VER 3 0000000000000039 "moon" "136087"
+/moon
+END
+VER 3 000000000000002B "mort" "132355"
+#showtooltip Mortal Strike
+/dismount
+/cast Mortal Strike
+/startattack
+END
+VER 3 0000000000000048 "OPT2" "134422"
+/script GetNumGossipAvailableQuests()
+/script CompleteQuest()
+/script GetQuestReward()
+END
+VER 3 0000000000000015 "pew" "132222"
+/dismount
+/cast Shoot Bow
+/cast Shoot Gun
+END
+VER 3 0000000000000010 "prep" "136121"
+#showtooltip Preparation
+/cast Sprint
+/cast Evasion
+/cast Preparation
+END
+VER 3 000000000000005F "RAID" "135750"
+/run InviteUnit("a");C_Timer.After(.25,function() ConvertToRaid() end)
+END
+VER 3 0000000000000038 "run" "132307"
+/s ‡ p Š
+END
+VER 3 0000000000000066 "RXPTargeting" "Ability_eyeoftheowl"
+/targetexact Ag'tor Bloodfist
+/targetexact Weakened Mosshoof Stag
+/targetlasttarget [dead]
+END
+VER 3 000000000000001A "safe" "135956"
+/rw BS safe
+END
+VER 3 0000000000000003 "Spit" "132104"
+/spit
+END
+VER 3 000000000000005D "SUB" "134400"
+#showtooltip Cheap Shot
+/equipslot 16 Perilous
+/equipslot 17 Golem-shard
+/cast Pick Pocket
+/cast Cheap Shot
+END
+VER 3 0000000000000006 "Tar" "132222"
+/tar Cork
+/tar Gizleton
+END
+VER 3 000000000000004B "tar" "INV_MISC_QUESTIONMARK"
+#showtooltip shadowstep
+/tar Bis
+/cast shadowstep
+/cast cheap shot
+END
+VER 3 0000000000000025 "thank" "132098"
+/s Ä 2 ž 1 Š Ä Ÿ Š ÇÍ 11 À ƒ
+END
+VER 3 0000000000000007 "TRAIN" "136154"
+/train
+/s D a p Ee bb
+END
+VER 3 0000000000000058 "trinket" "134400"
+#showtooltip fan of knives
+/use
+END
+VER 3 000000000000001D "trinket" "INV_MISC_QUESTIONMARK"
+#showtooltip 14
+/dismount
+/use 14
+END
+VER 3 000000000000001E "trinket" "INV_MISC_QUESTIONMARK"
+#showtooltip 13
+/dismount
+/use 13
+END
+VER 3 000000000000003D "viewDist" "INV_MISC_QUESTIONMARK"
+/run SetCVar("nameplateMaxDistance", "40")
+END
+VER 3 000000000000002A "warn" "132094"
+/run local z={"648","836","25476"}for k,v in pairs({{351,648},{485,836},{25475,25476}})do print(z[k])for i,q in pairs(v)do print(" #"..i,"\124Hquest:"..q.."\124h["..q.."]\124h" ,IsQuestFlaggedCompleted(q)and COMPLETE or INCOMPLETE)end end
+END
+VER 3 000000000000002C "whirl" "132369"
+#showtooltip Whirlwind
+/cast Berserker Stance
+/cast Whirlwind
+END
